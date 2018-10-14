@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="Парфенов.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Парфенов"
+	Height="300"
+	Width="300">
+	<Grid
+		RenderTransformOrigin="0.4862,0.4963">
+		<Button
+			Width="75"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			x:Name="multiplication"
+			Content="*"
+			Click="multiplication_Click"
+			Grid.Column="0"
+			RenderTransformOrigin="0.5,0.5435"
+			Height="23"
+			VerticalAlignment="Top"
+			Margin="26,151,0,0" />
+		<Button
+			Grid.Column="0"
+			Grid.Row="0"
+			x:Name="division"
+			Content="/"
+			RenderTransformOrigin="0.5,0.5"
+			Click="division_Click"
+			Width="75"
+			HorizontalAlignment="Left"
+			Height="23"
+			VerticalAlignment="Top"
+			Margin="168,151,0,0" />
+		<Button
+			Width="75"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			x:Name="minus"
+			Content="-"
+			Click="minus_Click"
+			Grid.Column="0"
+			Height="23"
+			VerticalAlignment="Top"
+			Margin="26,202,0,0" />
+		<Button
+			Height="23"
+			Grid.Row="0"
+			VerticalAlignment="Top"
+			x:Name="addition"
+			Content="+"
+			RenderTransformOrigin="0.5,0.5"
+			Click="addition_Click"
+			Grid.Column="0"
+			Width="75"
+			HorizontalAlignment="Left"
+			Margin="168,202,0,0" />
+		<TextBox
+			Width="120"
+			Height="20"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			x:Name="chislo2"
+			Margin="85,67,0,0"
+			Grid.Column="0" />
+		<TextBlock
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="-498,396,0,0">
+			<Run
+				Text="TextBlock" />
+		</TextBlock>
+		<TextBox
+			Width="120"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			x:Name="resultbox"
+			Grid.Column="0"
+			Height="20"
+			VerticalAlignment="Top"
+			Margin="85,103,0,0" />
+		<TextBox
+			Width="120"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			x:Name="chislo1"
+			Grid.Column="0"
+			Height="20"
+			VerticalAlignment="Top"
+			Margin="85,30,0,0" />
+		<Label
+			Width="44"
+			Content="A"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			Grid.Column="0"
+			Height="40"
+			VerticalAlignment="Top"
+			Margin="62.5,30,0,0" />
+		<Label
+			Content="B"
+			Width="49"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			Grid.Column="0"
+			Height="41"
+			VerticalAlignment="Top"
+			Margin="60.5,67,0,0" />
+	</Grid>
+</Window>

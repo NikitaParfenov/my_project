@@ -1,0 +1,11 @@
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Парфенов.csprojResolveAssemblyReference.cache
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Window1.baml
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Window1.g.cs
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\App.g.cs
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Парфенов_MarkupCompile.cache
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Парфенов.g.resources
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\bin\Debug\Парфенов.exe.config
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\bin\Debug\Парфенов.exe
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\bin\Debug\Парфенов.pdb
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Парфенов.exe
+C:\Users\студент\Documents\SharpDevelop Projects\Парфенов\Парфенов\obj\Debug\Парфенов.pdb
